@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: livy-python-api
+Version: 0.6.0-incubating-SNAPSHOT
+Summary: A simple Python API for Livy powered by requests
+Home-page: https://github.com/apache/incubator-livy
+Author: UNKNOWN
+Author-email: user@livy.incubator.apache.org
+License: Apache License, Version 2.0
+Description: UNKNOWN
+Keywords: livy pyspark development
+Platform: any
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
